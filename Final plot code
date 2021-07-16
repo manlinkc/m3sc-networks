@@ -1,0 +1,44 @@
+output_fig = diffusion(1,display=False)
+  plt.savefig('fig1.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(1) figure saved!')
+
+  output_fig = diffusion(2,display=False)
+  plt.savefig('fig2.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(2) figure saved!')
+
+  output_fig = diffusion(3,display=False)
+  plt.savefig('fig3.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(3) figure saved!')
+
+  output_fig = diffusion(4,display=False)
+  plt.savefig('fig4.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(4) figure saved!')
+
+  output_fig = diffusion(5,display=False)
+  plt.savefig('fig5.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(5) figure saved!')
+
+  output_fig = diffusion(6,display=False)
+  plt.savefig('fig6.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(6) figure saved!')
+
+  output_fig = diffusion(7,display=False)
+  plt.savefig('fig7.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(7) figure saved!')
+
+  output_fig = diffusion(8,display=False)
+  plt.savefig('fig8.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(8) figure saved!')
+
+  output_fig = diffusion(9,display=False)
+  plt.savefig('fig9.png', bbox_inches="tight")
+  plt.clf()
+  print('diffusion(9) figure saved!')
